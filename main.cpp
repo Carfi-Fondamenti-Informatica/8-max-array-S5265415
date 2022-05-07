@@ -3,12 +3,12 @@
 using namespace std;
 
 int main(){
-  int b=0;
-  cin>> b;
-  float numeri[b];
-  for(int i=0; i<b; i++){
+  int a=0;
+  cin>> a;
+  float numeri[a];
+  for(int i=0; i<a; i++){
     cin>> numeri[i];
   }
-  cout<< max (numeri,b)
+  cout<< max (numeri[],a)
   return 0;
 }
