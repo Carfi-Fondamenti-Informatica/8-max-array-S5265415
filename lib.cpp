@@ -6,4 +6,5 @@ float max(float numeri[], int a){
       b=numeri[i];
     }
   }
+  return b;
 }
