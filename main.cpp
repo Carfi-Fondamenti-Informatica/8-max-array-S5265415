@@ -9,6 +9,6 @@ int main(){
   for(int i=0; i<a; i++){
     cin>> numeri[i];
   }
-  cout<< max (numeri[a],a)
+  cout<< max(numeri[],a)
   return 0;
 }
